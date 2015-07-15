@@ -7,7 +7,7 @@ public class sdfsdf {
 
 		System.out.println("Mukesh");
 		int a=90;
-		System.out.println(a);
+		System.out.println("data"+a);
 		
 	}
 
