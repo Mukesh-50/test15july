@@ -6,6 +6,8 @@ public class sdfsdf {
 		// TODO Auto-generated method stub
 
 		System.out.println("Mukesh");
+		int a=90;
+		System.out.println(a);
 		
 	}
 
